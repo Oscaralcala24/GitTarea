@@ -11,6 +11,9 @@ package U2.T9;
 //a
 public class GitTarea {
     public static void main(String[] args) {
+        String naranja = "\033[33m";
+        String azul = "\033[34m";
+
         System.out.println("hola, mundo");
     }
 }
